@@ -4,7 +4,8 @@ version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 
 environment:
-  sdk: '>=2.19.5 <3.0.0'
+  # sdk: '>=2.19.5 <3.0.0' //ini sudah ada versi null safety nya
+  sdk: '>=2.10.5 <3.0.0'
 
 # dependencies:
 #   path: ^1.8.0
